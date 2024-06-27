@@ -45,6 +45,14 @@ const ProductDetail = () => {
             </div>
           ))}
         </div>
+        <div className=" flex justify-center">
+          <button
+            data-aos="fade-up"
+            className=" text-center mt-10 cursor-pointer bg-primary text-white py-1 px-2 rounded-md"
+          >
+            View All Products
+          </button>
+        </div>
       </div>
     </div>
   );

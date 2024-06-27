@@ -131,3 +131,55 @@ export const ProductsData = [
       " Lorem ipsum, dolor sit amet consectetur adipisicing elit. Dolor error doloremque voluptatem quidem explicabo illo!",
   },
 ];
+
+export const TestimonialsData = [
+  {
+    id: 1,
+    name: "Victor",
+    text: " Lorem ipsum, dolor sit amet consectetur adipisicing elit. Dolor error doloremque voluptatem quidem explicabo illo!",
+    img: PDI1,
+  },
+  {
+    id: 2,
+    name: "Terry",
+    text: " Lorem ipsum, dolor sit amet consectetur adipisicing elit. Dolor error doloremque voluptatem quidem explicabo illo!",
+    img: PDI2,
+  },
+  {
+    id: 3,
+    name: "Cherry",
+    text: " Lorem ipsum, dolor sit amet consectetur adipisicing elit. Dolor error doloremque voluptatem quidem explicabo illo!",
+    img: PDI3,
+  },
+  {
+    id: 4,
+    name: "Marry",
+    text: " Lorem ipsum, dolor sit amet consectetur adipisicing elit. Dolor error doloremque voluptatem quidem explicabo illo!",
+    img: PDI4,
+  },
+  {
+    id: 5,
+    name: "Jerry",
+    text: " Lorem ipsum, dolor sit amet consectetur adipisicing elit. Dolor error doloremque voluptatem quidem explicabo illo!",
+    img: PDI5,
+  },
+];
+
+export const FooterLinks = [
+  {
+    title: "Home",
+    link: "#",
+  },
+  {
+    title: "About",
+    link: "/#about",
+  },
+  {
+    title: "Contact",
+    link: "/#contact",
+  },
+  {
+    title: "Blog",
+    link: "/#blog",
+  },
+];
