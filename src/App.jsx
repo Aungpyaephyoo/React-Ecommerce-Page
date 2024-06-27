@@ -5,6 +5,8 @@ import { SlidePage } from "./components/SlidePage";
 import { ProductDetail } from "./components/Productspage";
 import AOS from "aos";
 import "aos/dist/aos.css";
+import { TopRateProducts } from "./components/TopRateProducts";
+import { Banner } from "./components/Banner";
 
 const App = () => {
   useEffect(() => {
@@ -22,6 +24,8 @@ const App = () => {
       <NavBar />
       <SlidePage />
       <ProductDetail />
+      <TopRateProducts />
+      <Banner />
     </>
   );
 };

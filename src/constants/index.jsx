@@ -107,3 +107,27 @@ export const ProductData = [
     aosDelay: "800",
   },
 ];
+
+export const ProductsData = [
+  {
+    id: 1,
+    img: PDI1,
+    title: "Causal Wear",
+    description:
+      " Lorem ipsum, dolor sit amet consectetur adipisicing elit. Dolor error doloremque voluptatem quidem explicabo illo!",
+  },
+  {
+    id: 2,
+    img: PDI2,
+    title: "Printed Shirt",
+    description:
+      " Lorem ipsum, dolor sit amet consectetur adipisicing elit. Dolor error doloremque voluptatem quidem explicabo illo!",
+  },
+  {
+    id: 3,
+    img: PDI3,
+    title: "Women Shirt",
+    description:
+      " Lorem ipsum, dolor sit amet consectetur adipisicing elit. Dolor error doloremque voluptatem quidem explicabo illo!",
+  },
+];
